@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saiko-2002
-- 👀 I’m interested in projects
+- 👀 I’m interested in exploring further in DSA
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ANY dsa  basic project
 - 📫 How to reach me saikokare13@gmail.com
